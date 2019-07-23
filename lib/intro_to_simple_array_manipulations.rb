@@ -23,6 +23,8 @@ houston = ["watt","hopkins"]
 rams = ["gurley", "goff", "donald", "suh"]
 rams.insert("kupp")
 
-rams =
-["gurley", "goff"] ["donald", "suh"]
+rams ={
+offense = ["gurley", "goff"] 
+deffense = ["donald", "suh"]
+}
 rams.flatten
