@@ -18,5 +18,5 @@ rams.shift(2)
 
 rams = ["gurley", "goff", "donald", "suh"]
 houston = ["watt","hopkins"]
-rams,houston.concat
+[rams,houston].concat
 
