@@ -20,3 +20,5 @@ rams = ["gurley", "goff", "donald", "suh"]
 houston = ["watt","hopkins"]
 [rams,houston].concat
 
+rams = ["gurley", "goff", "donald", "suh"]
+rams.insert(kupp)
