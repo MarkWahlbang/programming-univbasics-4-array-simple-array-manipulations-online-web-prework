@@ -24,7 +24,7 @@ rams = ["gurley", "goff", "donald", "suh"]
 rams.insert("kupp")
 
 rams => {
-offense = ["gurley", "goff"] 
-deffense = ["donald", "suh"]
+offense => ["gurley", "goff"] 
+deffense => ["donald", "suh"]
 }
 rams.flatten
